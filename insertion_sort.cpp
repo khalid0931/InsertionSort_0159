@@ -48,7 +48,6 @@ void insersitonsort(){
 }
 
 void display(){
-    
     cout << endl;
     cout << "\n===============";
     cout << "\nElement Array" << endl;
@@ -61,6 +60,7 @@ void display(){
 }
 
 int main(){
+    
     input();
     insersitonsort();
     display();
